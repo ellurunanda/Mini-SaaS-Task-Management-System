@@ -29,8 +29,8 @@ A full-stack, production-ready SaaS task management application where multiple u
 
 ## 🚀 Live Demo
 
-- **Frontend:** *(Deploy to Vercel/Netlify and add URL here)*
-- **Backend API:** *(Deploy to Render/Railway and add URL here)*
+- **Frontend:** *https://mini-saas-task-management-system-frontend.onrender.com*
+- **Backend API:** *https://mini-saas-task-management-system-backend.onrender.com*
 
 ---
 
