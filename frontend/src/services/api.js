@@ -1,4 +1,4 @@
-const API_BASE_URL = import.meta.env.VITE_API_URL || 'https://mini-saas-task-management-system-backend.onrender.com"';
+const API_BASE_URL = import.meta.env.VITE_API_URL || 'https://mini-saas-task-management-system-backend.onrender.com';
 
 // Helper to get the auth token from localStorage
 const getToken = () => localStorage.getItem('token');
